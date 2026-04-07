@@ -2,3 +2,6 @@ initial commit text.
 
 The Sweet Theft: 12 Tonnes of Missing KitKats
 In a heist that sounds more like a Willy Wonka plot than a police report, Nestlé recently announced that 12 tonnes of KitKat bars were stolen in a daring "sweet" robbery. The massive shipment vanished during transport, leaving authorities puzzled and fans of the crispy chocolate wafer in a state of mild chocolate-deprivation anxiety. While high-value thefts usually involve electronics or jewelry, this "KitKat Caper" has proven that in 2026, sugar might just be the new gold.
+
+branch-1 text:
+The scale of the theft is staggering when you do the math: 12 tonnes is roughly equivalent to 900,000 individual bars. If the thieves were to eat one bar every minute, it would take them nearly two years of non-stop snacking to finish the loot. Police are currently on the lookout for any suspicious warehouses smelling strongly of cocoa and milk chocolate, or perhaps a sudden, massive influx of "Break Time" enthusiasts in the local underground market.
