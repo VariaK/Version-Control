@@ -8,3 +8,10 @@ git commit -m "first commit"
 git checkout -b branch1
 git add .
 git commit -m "commit on branch1"
+
+------- adding these lines in master -----
+
+git checkout master
+git merge branch1
+git add .
+git commit -m "commit on master"
