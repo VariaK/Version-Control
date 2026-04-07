@@ -1,0 +1,5 @@
+this file should be tracked.
+
+file 2 contains some important info which should not be released out online.
+
+also all log files should be ignored.
