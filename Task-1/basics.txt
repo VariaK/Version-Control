@@ -6,10 +6,5 @@ git commit -m "first commit"
 ---------- adding these lines in branch1 -----
 
 git checkout -b branch1
+git add .
 git commit -m "commit on branch1"
-
-------- adding these lines in master -----
-
-git checkout master
-git commit
-git merge branch1
