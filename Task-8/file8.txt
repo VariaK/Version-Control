@@ -1,0 +1,4 @@
+written a bash script to not allow any config.js to be committed. 
+
+the output is :
+Remove config.js.... since it cannot be commmited
